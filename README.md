@@ -3,7 +3,7 @@
 
 |Titel | Datum & Uhrzeit | Link zu Materialien |
 |------|-----------------|----------------------|
-| Wikipedia und KI: Geht das zusammen?|	Di., 30. Sept.	16-19| Siehe Kursdaten |
+| Wikipedia und KI: Geht das zusammen?|	Di., 30. Sept.	16-19| [link](https://commons.wikimedia.org/wiki/File:2025-09_WMCH_Wiki-und-KI-geht-das-zusammen.pdf) |
 | OCR im Test: Handschriften und Texte mit RENKU analysieren | Do., 2. Okt.	10-12 | [link](https://github.com/NbtKmy/comparing-ocr) |
 | APIs für Kultur und Wissenschaft: SPARQL, IIIF & sonstige API-Schnittstelle verstehen	|Mi., 22. Okt.	10-12 | [link](https://github.com/NbtKmy/playingwithapis) |
 | ChatGPT-API für die Wissenschaft nutzen |	Di., 28. Okt.	14-16 | [link](https://github.com/NbtKmy/openaiapi) |
